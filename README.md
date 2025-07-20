@@ -22,3 +22,5 @@ Linguagens e Tecnologias:
 - [3 dias] Criar player 
 - [2 dias] Responsividade mobile-first
 
+  Observação: Esse projeto é somente para fins educativos, não é para uso comercial.
+
