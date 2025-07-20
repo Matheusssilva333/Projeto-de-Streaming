@@ -1,11 +1,10 @@
-
 <!DOCTYPE HTML>
 <html>
 <head>
 <title>Página Inicial</title>
 </head>
 
-<body style="background-color: rgb(77, 77, 80);">
+<body style="background-color: rgb(17, 17, 17);">
 <h1 style="color: rgb(211, 208, 208);">Página Inicial</h1>
 
 
@@ -21,6 +20,9 @@
 <p style="color: azure;">3. Assista onde quiser, assista a quantos filmes e séries quiser no celular, tablet, laptop e TV.</p>
 <p style="color: azure;">4. Crie perfis para crianças, deixe as crianças se aventurarem com seus personagens favoritos em um espaço feito só para elas, sem pagar a mais por isso.</p>
 
+
+
 </body>
+
 
 </html>
