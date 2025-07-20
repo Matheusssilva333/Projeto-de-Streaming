@@ -1,4 +1,5 @@
-Projeto de Font End que simula a interface da Plataforma Netflix.
+
+Definição: Projeto de Font End que simula a interface da Plataforma Netflix.
 
 Objetivo: Desenvolver uma aplicação próxima à Netflix, utilizando HTML, CSS e Javascript para treinar habilidades em Front End.
 
