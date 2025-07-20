@@ -5,7 +5,7 @@
     <title>Página de usuários</title>
     
 </head>
-<body style="background-color: rgb(124, 124, 120);">
+<body style="background-color: rgb(17, 17, 16);">
 
 <h3 style="color: azure;">Escolha seu perfil</h3>
 <button style="color: rgb(117, 119, 119);">Usuário 1</button>
