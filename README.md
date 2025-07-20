@@ -18,7 +18,7 @@ Linguagens e Tecnologias:
 - [1 dia] Montar estrutura inicial do projeto
 - [2 dias] Criar navbar fixa
 - [3 dias] Montar carrossel de filmes
-- [2 dias] Adicionar páginas de login fictício
-- [3 dias] Criar player fictício
+- [2 dias] Adicionar páginas de login 
+- [3 dias] Criar player 
 - [2 dias] Responsividade mobile-first
 
