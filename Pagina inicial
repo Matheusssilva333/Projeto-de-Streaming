@@ -5,6 +5,17 @@
 </head>
 
 <body style="background-color: rgb(17, 17, 17);">
+    <header>
+        <div class="container">
+            <nav>
+                <a href="">Inicio</a>
+                <a href="">Séries</a>
+                <a href="">Filmes</a>
+                <a href="">Documentários</a>
+
+            </nav>
+        </div>
+    </header>
 <h1 style="color: rgb(245, 242, 242);">Netflix</h1>
 
 
@@ -12,6 +23,24 @@
 <h2 style="color: rgb(253, 251, 251);">Filmes, séries e muito mais, sem limites!</h2>
 <a href="c:\Users\User\Desktop\Projetos\Página de usuários - Plataforma de filme.html">
 <button style="color: rgb(22, 21, 21); background-color: darkred;">Quer assistir? então clique aqui</button></a>
+
+<section class="Em alta">
+<h2 style="color: azure;">Em alta</h2>
+<div class="carossel">
+<div class="card">
+    <img src="captura-de-tela-2024-12-23-190506 (1).avif">
+  <p style="color: azure;">Round 6</p>
+</div>
+<div class="card">
+    <img src="olympo-netflix.webp">
+    <p style="color: azure;">Olympo</p>
+</div>
+<div class="card">
+    <img src="vingadores.jpeg">
+    <p style="color: azure;">Vingadores 3</p>
+</section>
+ 
+
 
 
 <h2 style="color: rgb(243, 240, 240);">Motivos para assinar</h2>
