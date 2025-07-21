@@ -8,10 +8,11 @@
     <header>
         <div class="container">
             <nav>
-                <a href="">Inicio</a>
-                <a href="">Séries</a>
-                <a href="">Filmes</a>
-                <a href="">Documentários</a>
+                
+                <a href="" style="color: darkred;">Séries</a>
+                <a href="" style="color: darkred;">Filmes</a>
+                <a href="" style="color: darkred;">Animes</a>
+                <a href="" style="color: darkred;">Documentários</a>
 
             </nav>
         </div>
