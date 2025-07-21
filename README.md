@@ -1,5 +1,5 @@
 
-Definição: Projeto de Font End que simula a interface da Plataforma Netflix.
+Definição: Projeto de Front End que simula a interface da Plataforma Netflix.
 
 
 
