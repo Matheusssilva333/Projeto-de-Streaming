@@ -23,8 +23,11 @@
 <h2 style="color: rgb(253, 251, 251);">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
 <button>Acesse sua conta aqui</button>
-<button>Cadastre se aqui</button>
    </a>
+
+<a link href="">
+<button>Cadastre se aqui</button>
+</a>
 <section class="Em alta">
 <h2 style="color: azure;">Em alta</h2>
 <div class="carossel">
