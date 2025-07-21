@@ -8,9 +8,9 @@
 <body style="background-color: rgb(17, 17, 16);">
 
 <h3 style="color: azure;">Escolha seu perfil</h3>
-<button style="color: rgb(117, 119, 119);">Usuário 1</button>
-<button style="color: rgb(122, 118, 118);">Usuário 2</button>
-<button style="color: rgb(102, 99, 99);">Usuário 3</button>
+<button style="color: rgb(117, 119, 119); background-color:azure">Usuário 1</button>
+<button style="color: rgb(122, 118, 118); background-color:azure ">Usuário 2</button>
+<button style="color: rgb(102, 99, 99); background-color:azure">Usuário 3</button>
 
 </body>
 
