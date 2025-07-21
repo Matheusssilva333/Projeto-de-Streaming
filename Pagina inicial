@@ -9,10 +9,10 @@
         <div class="container">
             <nav>
                 
-                <a href="" style="color: darkred;">Séries</a>
-                <a href="" style="color: darkred;">Filmes</a>
-                <a href="" style="color: darkred;">Animes</a>
-                <a href="" style="color: darkred;">Documentários</a>
+                <a href="" style="color:azure;">Séries</a>
+                <a href="" style="color:azure;">Filmes</a>
+                <a href="" style="color:azure;">Animes</a>
+                <a href="" style="color:azure;">Documentários</a>
 
             </nav>
         </div>
