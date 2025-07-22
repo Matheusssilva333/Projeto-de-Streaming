@@ -1,63 +1,50 @@
-<!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html>
 <head>
 <title>Página Inicial</title>
 </head>
 
-<body style="background-color: rgb(17, 17, 17);">
+<body style="background-color:azure">
     <header>
         <div class="container">
             <nav>
-                
-                <a href="" style="color:azure;">Séries</a>
-                <a href="" style="color:azure;">Filmes</a>
-                <a href="" style="color:azure;">Animes</a>
-                <a href="" style="color:azure;">Documentários</a>
+        
+                <a href="" style="color:gold">Séries</a>
+                <a href="" style="color:gold">Filmes</a>
+                <a href="" style="color:gold">Animes</a>
+                <a href="" style="color:gold">Documentários</a>
 
             </nav>
         </div>
     </header>
     
 
+<h1 style="color:gold">Streaming de Filmes</h1>
 
-
-
-<h1 style="color: rgb(245, 242, 242);">Netflix</h1>
-
-
-
-<h2 style="color: rgb(253, 251, 251);">Filmes, séries e muito mais, sem limites!</h2>
+<h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
-<button>Acesse sua conta aqui</button>
+<button style="background-color: lime;">Acesse sua conta aqui</button>
    </a>
 
 <a link href="Página de Cadastro Plataforma de filmes.html">
-<button>Cadastre se aqui</button>
+<button style="background-color: lime;">Cadastre se aqui</button>
 </a>
 <section class="Em alta">
-<h2 style="color: azure;">Em alta</h2>
+<h2 style="color:gold">Em alta</h2>
 <div class="carossel">
 <div class="card">
     <img src="captura-de-tela-2024-12-23-190506 (1).avif">
-  <p style="color: azure;">Round 6</p>
+  <p style="color:gold">Round 6</p>
 </div>
 <div class="card">
-    <img src="olympo-netflix.webp">
-    <p style="color: azure;">Olympo</p>
+    <img src="série olympo.jpg">
+    <p style="color:gold">Olympo</p>
 </div>
 <div class="card">
     <img src="vingadores.jpeg">
-    <p style="color: azure;">Vingadores 2</p>
+    <p style="color:gold">Vingadores 2</p>
 </section>
  
-
-
-
-<h2 style="color: rgb(243, 240, 240);">Motivos para assinar</h2>
-<p style="color: azure;">1. Aproveite na TV, assista em Smart TVs, PlayStation, Xbox, Chromecast, Apple TV, aparelhos de Blu-ray e outros dispositivos.</p>
-<p style="color: azure;">2. Baixe séries para assistir offline,salve seus títulos favoritos e sempre tenha algo para assistir.</p>
-<p style="color: azure;">3. Assista onde quiser, assista a quantos filmes e séries quiser no celular, tablet, laptop e TV.</p>
-<p style="color: azure;">4. Crie perfis para crianças, deixe as crianças se aventurarem com seus personagens favoritos em um espaço feito só para elas, sem pagar a mais por isso.</p>
 
 </body>
 </html>
