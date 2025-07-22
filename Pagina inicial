@@ -1,14 +1,13 @@
- <!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>Página Inicial</title>
 </head>
-
-<body style="background-color:azure">
+<body style="background-color:limegreen">
     <header>
         <div class="container">
             <nav>
-        
+                
                 <a href="" style="color:gold">Séries</a>
                 <a href="" style="color:gold">Filmes</a>
                 <a href="" style="color:gold">Animes</a>
@@ -17,9 +16,8 @@
             </nav>
         </div>
     </header>
-    
-
 <h1 style="color:gold">Streaming de Filmes</h1>
+
 
 <h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
@@ -44,7 +42,5 @@
     <img src="vingadores.jpeg">
     <p style="color:gold">Vingadores 2</p>
 </section>
- 
-
 </body>
 </html>
