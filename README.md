@@ -1,21 +1,23 @@
+# 🎬 Interface de Streaming 
 
-> 📚 Projeto Educacional desenvolvido para praticar HTML, CSS, JavaScript e design responsivo inspirado em plataformas de streaming.
-
-
- Objetivo:
-Desenvolver uma aplicação de interface de usuário de uma plataforma de filmes, utilizando HTML, CSS e Javascript para treinar habilidades em Desenvolvimento Front End.
+📚 **Projeto educacional** desenvolvido para praticar **HTML, CSS, JavaScript** e conceitos de **design responsivo**, inspirado em plataformas de streaming como a Netflix.
 
 
- Linguagens e Tecnologias:
-- HTML
-- CSS
-- Javascript
+## 🎯 Objetivo
 
-> ⚠️ **Aviso Legal:**  
-> Este projeto foi desenvolvido exclusivamente para fins educacionais e de aprendizado em desenvolvimento front-end.  
-> Não possui nenhuma afiliação, parceria ou vínculo comercial com a Netflix, Inc ou outras empresas.  
-> Todas as marcas, logos, nomes de séries e imagens citadas pertencem aos seus respectivos proprietários.  
-> Nenhum conteúdo protegido por direitos autorais foi utilizado com fins lucrativos ou comerciais.
+Desenvolver uma aplicação de interface de usuário para uma plataforma fictícia de filmes, com foco em praticar e demonstrar habilidades em desenvolvimento front-end moderno.
 
-  
 
+## 🧪 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript 
+
+
+## ⚠️ Aviso Legal
+
+> Este projeto foi desenvolvido exclusivamente para **fins educacionais** e de aprendizado prático.  
+> Não possui nenhuma afiliação, parceria ou vínculo comercial com a **Netflix, Inc.** ou quaisquer outras empresas mencionadas.  
+> Todos os nomes de séries, imagens, marcas e logotipos utilizados são de propriedade de seus respectivos donos.  
+> **Nenhum conteúdo protegido por direitos autorais foi utilizado com fins lucrativos ou comerciais.**
