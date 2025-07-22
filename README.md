@@ -1,5 +1,5 @@
 
-Definição: Projeto de Interface de usuário de uma plataforma de streaming de filmes para treinar habilidades em Desenvolvimento Web.
+Definição: Projeto de interface de usuário de uma plataforma de streaming de filmes para treinar habilidades em Desenvolvimento Web.
 
 
 
