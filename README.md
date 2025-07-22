@@ -3,7 +3,7 @@ Definição: Projeto de Interface de usuário de uma plataforma de streaming de 
 
 
 
-Objetivo: Desenvolver uma aplicação de Interface de usuário de uma plataforma de filmes, utilizando HTML, CSS e Javascript para treinar habilidades em Front End.
+Objetivo: Desenvolver uma aplicação de interface de usuário de uma plataforma de filmes, utilizando HTML, CSS e Javascript para treinar habilidades em Front End.
 
 
 
