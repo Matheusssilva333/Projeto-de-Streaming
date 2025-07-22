@@ -1,9 +1,9 @@
 
-Definição: Projeto de Front End que simula a interface da Plataforma Netflix.
+Definição: Projeto de Interface de usuário de uma Plataforma de streaming de filmes para treinar habilidades em Desenvolvimento Web.
 
 
 
-Objetivo: Desenvolver uma aplicação próxima à Netflix, utilizando HTML, CSS e Javascript para treinar habilidades em Front End.
+Objetivo: Desenvolver uma aplicação de Interface de usuário de uma plataforma de filmes, utilizando HTML, CSS e Javascript para treinar habilidades em Front End.
 
 
 
