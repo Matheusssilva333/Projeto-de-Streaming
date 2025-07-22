@@ -4,7 +4,7 @@
 <title>Página Inicial</title>
 </head>
 
-<body style="background-color:limegreen">
+<body style="background-color:black">
     <header>
         <div class="container">
             <nav>
@@ -42,7 +42,5 @@
     <img src="vingadores.jpeg">
     <p style="color:gold">Vingadores 2</p>
 </section>
- 
-
 </body>
 </html>
