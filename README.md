@@ -2,11 +2,11 @@
 > 📚 Projeto Educacional desenvolvido para praticar HTML, CSS, JavaScript e design responsivo inspirado em plataformas de streaming.
 
 
-> Objetivo:
+ Objetivo:
 Desenvolver uma aplicação de interface de usuário de uma plataforma de filmes, utilizando HTML, CSS e Javascript para treinar habilidades em Desenvolvimento Front End.
 
 
-> Linguagens e Tecnologias:
+ Linguagens e Tecnologias:
 - HTML
 - CSS
 - Javascript
