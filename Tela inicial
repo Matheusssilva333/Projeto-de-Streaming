@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Tela Inicial</title>
+</head>
+<body  style="background-color: black;">
+    <header>
+        <div class="container">
+            <nav>
+                <a href="" style="color:gold">Séries</a>
+               <a href="" style="color:gold">Filmes</a>
+                <a href="" style="color:gold">Animes</a>
+                <a href="" style="color:gold">Documentários</a>
+            </nav>
+            </div>
+    </header>
+    <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
+    <section class="Filmes">
+        <h2 style="color: gold;">Filmes</h2>
+    </section>
+    <section class="Séries">
+        <h2 style="color: gold;">Séries</h2>
+    </section>
+    <section class="Animes"><h2 style="color: gold;">Animes</h2></section>
+    <section><h2 style="color: gold;">Documentários</h2></section>
+        </body>
+</html>
+
+
