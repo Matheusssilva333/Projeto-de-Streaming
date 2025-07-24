@@ -1,18 +1,21 @@
-# 🎬 Interface de Streaming 
+# 🎬 Projeto de Streaming 
 
 📚 **Projeto educacional** desenvolvido para praticar **HTML, CSS, JavaScript** e conceitos de **design responsivo**, inspirado em plataformas de streaming como a Netflix.
 
 
 ## 🎯 Objetivo
 
-Desenvolver uma aplicação de interface de usuário para uma plataforma fictícia de filmes, com foco em praticar e demonstrar habilidades em desenvolvimento front-end moderno.
+Desenvolver uma aplicação de streaming com um sistema de recomendação baseado no humor do usuário, utilizando HTML, CSS e Javascript para treinar habilidades em Desenvolvimento Web.
 
 
 ## 🧪 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript
+
+## 💻 Funcionamento
+Dentro do projeto vai conter um sistema de recomendação baseado no humor do usuário, por exemplo, na tela inicial primeiro vai aparecer uma pergunta sobre como o usuário está se sentindo e se o usuário dizer que está se sentindo triste ou estressado então o sistema vai recomendar filmes relaxantes para ele assistir.
 
 
 ## ⚠️ Aviso Legal
