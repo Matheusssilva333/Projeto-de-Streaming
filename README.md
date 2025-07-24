@@ -1,6 +1,6 @@
 # 🎬 Projeto de Streaming 
 
-📚 **Projeto educacional** desenvolvido para praticar **HTML, CSS, JavaScript** e conceitos de **design responsivo**, inspirado em plataformas de streaming como a Netflix.
+📚 **Projeto educacional** desenvolvido para praticar **HTML, CSS, JavaScript**, inspirado em plataformas de streaming como a Netflix.
 
 
 ## 🎯 Objetivo
