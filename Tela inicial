@@ -23,7 +23,30 @@
     </section>
     <section class="Animes"><h2 style="color: gold;">Animes</h2></section>
     <section><h2 style="color: gold;">Documentários</h2></section>
+
+
+    // Sistema de recomendação baseado no humor do usuário
+    <script>
+         alert("Seja bem vindo")
+        alert("Como você está se sentindo?")
+        prompt("Responda aqui")
+        const filmes = [
+            {titulo:"Vingadores Ultimato",humor:"entediado"},
+            {titulo:"Vingadores 2",humor:"entediado"},
+        ]
+        const humor =["entediado","estressado"]
+        function recomendarfilmes(filmes,humor){
+            return filmes.filter(filme => humor.includes(filme,humor))
+        }
+        
+        const recomendação = recomendarfilmes(filmes,humor)
+        console.log("recomendação de filmes:", recomendação)
+
+        recomendação: [
+            {titulo:"Vingadores Ultimato",humor:"entediado"},
+            {titulo:"Vingadores 2",humor:"entediado"},
+        ]
+    </script>
         </body>
 </html>
-
 
