@@ -1,29 +1,14 @@
+
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Lading Page</title>
+<title>Landing Page</title>
 </head>
 <body style="background-color:black">
-    <header>
-        <div class="container">
-            <nav>
-                
-                <a href="" style="color:gold">Séries</a>
-                <a href="" style="color:gold">Filmes</a>
-                <a href="" style="color:gold">Animes</a>
-                <a href="" style="color:gold">Documentários</a>
-
-            </nav>
-        </div>
-    </header>
-    
-<h1 style="color:gold">Streaming de Filmes</h1>
-
 <h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
 <button style="background-color:maroon; color: azure;">Acesse sua conta aqui</button>
    </a>
-
 <a link href="Página de Cadastro Plataforma de filmes.html">
 <button style="background-color:maroon; color: azure;">Cadastre se aqui</button>
 </a>
@@ -31,15 +16,15 @@
 <h2 style="color:gold">Em alta</h2>
 <div class="carossel">
 <div class="card">
-    <img src="round-6-1.png.webp">
+    <img src="round-6-1.png.webp" width="200">
   <p style="color:gold">Round 6</p>
 </div>
 <div class="card">
-    <img src="série olympo.jpg">
+    <img src="série olympo.jpg" width="200">
     <p style="color:gold">Olympo</p>
 </div>
 <div class="card">
-    <img src="vingadores.jpeg">
+    <img src="vingadores.jpeg" width="200">
     <p style="color:gold">Vingadores 2</p>
 </section>
 </body>
