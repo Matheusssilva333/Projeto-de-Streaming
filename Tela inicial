@@ -17,12 +17,20 @@
     <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
     <section class="Filmes">
         <h2 style="color: gold;">Filmes</h2>
+        <img src="vingadores ultimato.jpeg" width="200"></img>
+        <p style="color: gold;">Vingadores Ultimato</p>
     </section>
     <section class="Séries">
         <h2 style="color: gold;">Séries</h2>
+        <img src="Olympo.jpg" width="200"></img>
+        <p style="color: gold;">Olympo</p>
     </section>
     <section class="Animes"><h2 style="color: gold;">Animes</h2></section>
+    <img src="Naruto-Anime-inicio-de-2025.jpg" width="200"></img>
+    <p style="color: gold;">Naruto</p>
     <section><h2 style="color: gold;">Documentários</h2></section>
+    <img src="dilema das redes.webp" width="200"></img>
+    <p style="color: gold;">Dilema das Redes</p>
 
 
     <script>
