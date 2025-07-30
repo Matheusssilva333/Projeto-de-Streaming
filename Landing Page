@@ -11,7 +11,7 @@
 <button style="background-color:maroon; color: azure;">Acesse sua conta aqui</button>
    </a>
 <a link href="Página de Cadastro Plataforma de filmes.html">
-<button style="background-color:maroon; color: azure;" onclick="Cadastro()">Cadastre se aqui</button>
+<button style="background-color:maroon; color: azure;">Cadastre se aqui</button>
 </a>
 
 <h2 style="color: gold;">Em alta</h2>
