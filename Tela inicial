@@ -15,22 +15,17 @@
             </div>
     </header>
     <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
-    <section class="Filmes">
-        <h2 style="color: gold;">Filmes</h2>
-        <img src="vingadores ultimato.jpeg" width="200"></img>
-        <p style="color: gold;">Vingadores Ultimato</p>
-    </section>
-    <section class="Séries">
-        <h2 style="color: gold;">Séries</h2>
-        <img src="Olympo.jpg" width="200"></img>
-        <p style="color: gold;">Olympo</p>
-    </section>
-    <section class="Animes"><h2 style="color: gold;">Animes</h2></section>
-    <img src="Naruto-Anime-inicio-de-2025.jpg" width="200"></img>
-    <p style="color: gold;">Naruto</p>
-    <section><h2 style="color: gold;">Documentários</h2></section>
-    <img src="dilema das redes.webp" width="200"></img>
-    <p style="color: gold;">Dilema das Redes</p>
+
+    <ol style="list-style: none; padding: 10px; margin: right 10px;display: flex;">
+        <h2 style="color: gold; margin-right: 10px;">Filmes</h2>
+        <img src="vingadores ultimato.jpeg" width="150" style="margin-right: 10px;"></img>
+        <h2 style="color: gold; margin-right: 10px;">Séries</h2>
+        <img src="Olympo.jpg" width="150"></img>
+    <h2 style="color: gold; margin-right: 10px;">Animes</h2>
+    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150" style="margin-right: 10px;"></img>
+    <h2 style="color: gold; margin-right: 10px;">Documentários</h2>
+    <img src="dilema das redes.webp" width="150" style="margin-right: 10px;"></img>
+    </ol>
 
 
     <script>
@@ -57,9 +52,7 @@ if (recomendados.length > 0) {
 } else {
     alert("Desculpe, não temos recomendações para esse humor ainda.");
 }
-    </script>
+</script>
         </body>
 </html>
-
-
 
