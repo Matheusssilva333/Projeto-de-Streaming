@@ -16,16 +16,22 @@
     </header>
     <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
 
-    <ol style="list-style: none; padding: 10px; margin: right 10px;display: flex;">
-        <h2 style="color: gold; margin-right: 10px;">Filmes</h2>
-        <img src="vingadores ultimato.jpeg" width="150" style="margin-right: 10px;"></img>
-        <h2 style="color: gold; margin-right: 10px;">Séries</h2>
-        <img src="Olympo.jpg" width="150"></img>
-    <h2 style="color: gold; margin-right: 10px;">Animes</h2>
-    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150" style="margin-right: 10px;"></img>
-    <h2 style="color: gold; margin-right: 10px;">Documentários</h2>
-    <img src="dilema das redes.webp" width="150" style="margin-right: 10px;"></img>
+    <ol>
+        <h2 style="color: gold; margin-right: 10px; display: flex;">Filmes</h2>
+        <img src="vingadores ultimato.jpeg" width="150" style="margin-right: 10px; display: flex;"></img>
     </ol>
+    <ol>
+        <h2 style="color: gold; margin-right: 10px; display: flex;">Séries</h2>
+        <img src="Olympo.jpg" width="150" style="display:flex ; margin-right: 10px;" ></img>
+</ol>
+<ol>
+    <h2 style="color: gold; margin-right: 10px;">Animes</h2>
+    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150" style="margin-right: 10px; display: flex;"></img>
+</ol>
+<ol>
+    <h2 style="color: gold; margin-right: 10px; display: flex;">Documentários</h2>
+    <img src="dilema das redes.webp" width="150" style="margin-right: 10px; display: flex;"></img>
+</ol>
 
 
     <script>
