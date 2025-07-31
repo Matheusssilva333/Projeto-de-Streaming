@@ -16,21 +16,37 @@
     </header>
     <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
 
-    <ol>
-        <h2 style="color: gold; margin-right: 10px; display: flex;">Filmes</h2>
-        <img src="vingadores ultimato.jpeg" width="150" style="margin-right: 10px; display: flex;"></img>
+    
+        <h2 style="color: gold;">Filmes</h2>
+        <ol style="margin-right: 10px; display: flex;">
+            <img src="vingadores.jpeg" width="110">
+        <img src="vingadores ultimato.jpeg" width="110"></img>
+        <img src="creed 2 filme.jpg" width="110"></img>
+        <img src="batman.webp" width="110"></img>
     </ol>
-    <ol>
-        <h2 style="color: gold; margin-right: 10px; display: flex;">Séries</h2>
-        <img src="Olympo.jpg" width="150" style="display:flex ; margin-right: 10px;" ></img>
+    
+        <h2 style="color: gold;">Séries</h2>
+        <ol style="display: flex; margin-right: 10px;">
+        <img src="Olympo.jpg" width="150"></img>
+        <img src="the flash.jpg" width="150"></img>
+        <img src="round-6-1.png.webp" width="150"></img>
+        <img src="stranger things.jpg" width="150"></img>
 </ol>
-<ol>
-    <h2 style="color: gold; margin-right: 10px;">Animes</h2>
-    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150" style="margin-right: 10px; display: flex;"></img>
+
+    <h2 style="color: gold;">Animes</h2>
+    <ol style="display: flex; margin-right: 10px;">
+    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150"></img>
+    <img src="anime 2.jpg" width="150"></img>
+    <img src="goku.webp" width="150"></img>
+    <img src="cavaleiros do zodiaco.png" width="150"></img>
 </ol>
-<ol>
-    <h2 style="color: gold; margin-right: 10px; display: flex;">Documentários</h2>
+
+    <h2 style="color: gold;">Documentários</h2>
+    <ol style="display: flex; margin-right: 10px;">
     <img src="dilema das redes.webp" width="150" style="margin-right: 10px; display: flex;"></img>
+    <img src="documentario 1.webp" width="150"></img>
+    <img src="documentarios-cosmos-60mais.webp" width="150"></img>
+    <img src="documentario 2.jpg" width="150"></img>
 </ol>
 
 
