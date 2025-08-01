@@ -6,19 +6,21 @@
 </head>
 
 <body style="background-color:black">
+
 <h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
 <button style="background-color:maroon; color: azure;">Acesse sua conta aqui</button>
    </a>
+
 <a link href="Página de Cadastro Plataforma de filmes.html">
 <button style="background-color:maroon; color: azure;">Cadastre se aqui</button>
 </a>
 
 <h2 style="color: gold;">Em alta</h2>
 <ol style="list-style:none ; padding: 10px; margin-right: 10px; display: flex;">
-    <img src="round-6-1.png.webp" width="150" style="margin-right: 10px;">
-    <img src="série olympo.jpg" width="150" style="margin-right: 10px;">
-    <img src="vingadores.jpeg" width="150" style="margin-right: 10px;">
+    <img src="round-6-1.png.webp" width="150">
+    <img src="série olympo.jpg" width="150">
+    <img src="vingadores.jpeg" width="150">
 </ol>
 </body>
 </html>
