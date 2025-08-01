@@ -18,7 +18,7 @@
 
     
         <h2 style="color: gold;">Filmes</h2>
-        <ol style="margin-right: 10px; display: flex;">
+        <ol style="margin-right: 10px; display: flex; padding: 10px">
             <img src="vingadores.jpeg" width="110">
         <img src="vingadores ultimato.jpeg" width="110"></img>
         <img src="creed 2 filme.jpg" width="110"></img>
@@ -27,7 +27,7 @@
     </ol>
     
         <h2 style="color: gold;">Séries</h2>
-        <ol style="display: flex; margin-right: 10px;">
+        <ol style="display: flex; margin-right: 10px; padding: 10px;">
         <img src="Olympo.jpg" width="150"></img>
         <img src="the flash.jpg" width="150"></img>
         <img src="round-6-1.png.webp" width="150"></img>
@@ -35,7 +35,7 @@
 </ol>
 
     <h2 style="color: gold;">Animes</h2>
-    <ol style="display: flex; margin-right: 10px;">
+    <ol style="display: flex; margin-right: 10px; padding: 10px;">
     <img src="Naruto-Anime-inicio-de-2025.jpg" width="150"></img>
     <img src="anime 2.jpg" width="150"></img>
     <img src="goku.webp" width="150"></img>
@@ -43,7 +43,7 @@
 </ol>
 
     <h2 style="color: gold;">Documentários</h2>
-    <ol style="display: flex; margin-right: 10px;">
+    <ol style="display: flex; margin-right: 10px; padding: 10px;">
     <img src="dilema das redes.webp" width="150" style="margin-right: 10px; display: flex;"></img>
     <img src="documentario 1.webp" width="150"></img>
     <img src="documentarios-cosmos-60mais.webp" width="150"></img>
@@ -78,6 +78,4 @@ if (recomendados.length > 0) {
 </script>
         </body>
 </html>
-
-
 
