@@ -23,6 +23,7 @@
         <img src="vingadores ultimato.jpeg" width="110"></img>
         <img src="creed 2 filme.jpg" width="110"></img>
         <img src="batman.webp" width="110"></img>
+        <img src="karate kid.jpg" width="110"></img>
     </ol>
     
         <h2 style="color: gold;">Séries</h2>
@@ -77,4 +78,6 @@ if (recomendados.length > 0) {
 </script>
         </body>
 </html>
+
+
 
