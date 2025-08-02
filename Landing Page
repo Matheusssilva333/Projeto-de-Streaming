@@ -6,7 +6,6 @@
 </head>
 
 <body style="background-color:black">
-
 <h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
 <button style="background-color:maroon; color: azure;" class="botao">Acesse sua conta aqui</button>
@@ -30,14 +29,11 @@
 
 <script>
 const botoes = document.querySelectorAll(".botao");
-
 botoes.forEach((botao) => {
   botao.style.width = "100px";
   botao.style.height = "100px";
   botao.style.borderRadius = "50%";
   botao.style.border = "none";
-  botao.style.backgroundColor = "#2ecc71";
-  botao.style.color = "white";
   botao.style.fontSize = "16px";
 });
 </script>
