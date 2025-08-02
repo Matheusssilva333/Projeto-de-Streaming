@@ -9,11 +9,11 @@
 
 <h2 style="color:gold">Filmes, séries e muito mais, sem limites!</h2>
 <a link href="Página de usuários - Plataforma de filme.html">
-<button style="background-color:maroon; color: azure;">Acesse sua conta aqui</button>
+<button style="background-color:maroon; color: azure;" class="botao">Acesse sua conta aqui</button>
    </a>
 
 <a link href="Página de Cadastro Plataforma de filmes.html">
-<button style="background-color:maroon; color: azure;">Cadastre se aqui</button>
+<button style="background-color: maroon; color: azure;" class="botao">Cadastre se aqui</button>
 </a>
 
 <h2 style="color: gold;">Em alta</h2>
@@ -27,5 +27,22 @@
     <img src="batman.webp" width="150"></img>
     <img src="anime 2.jpg" width="150"></img>
 </ol>
+
+<script>
+const botoes = document.querySelectorAll(".botao");
+
+botoes.forEach((botao) => {
+  botao.style.width = "100px";
+  botao.style.height = "100px";
+  botao.style.borderRadius = "50%";
+  botao.style.border = "none";
+  botao.style.backgroundColor = "#2ecc71";
+  botao.style.color = "white";
+  botao.style.fontSize = "16px";
+});
+
+  
+  
+</script>
 </body>
 </html>
