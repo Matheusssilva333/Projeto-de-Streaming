@@ -40,9 +40,6 @@ botoes.forEach((botao) => {
   botao.style.color = "white";
   botao.style.fontSize = "16px";
 });
-
-  
-  
 </script>
 </body>
 </html>
