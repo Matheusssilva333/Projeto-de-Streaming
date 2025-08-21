@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Tela inicial</title>
+</head>
+<body  style="background-color: black;">
+    <header>
+        <div class="container">
+            <nav>
+                <a href="" style="color:gold">Séries</a>
+               <a href="" style="color:gold">Filmes</a>
+                <a href="" style="color:gold">Animes</a>
+                <a href="" style="color:gold">Documentários</a>
+            </nav>
+            </div>
+    </header>
+    <h1 style="color: gold;">Todos seus filmes, séries e documentários favoritos aqui!</h1>
+
+    
+        <h2 style="color: gold;">Filmes</h2>
+        <ol style="margin-right: 10px; display: flex; padding: 10px">
+            <img src="vingadores.jpeg" width="110">
+        <img src="vingadores ultimato.jpeg" width="110"></img>
+        <img src="creed 2 filme.jpg" width="110"></img>
+        <img src="batman.webp" width="110"></img>
+        <img src="karate kid.jpg" width="110"></img>
+    </ol>
+    
+        <h2 style="color: gold;">Séries</h2>
+        <ol style="display: flex; margin-right: 10px; padding: 10px;">
+        <img src="Olympo.jpg" width="150"></img>
+        <img src="the flash.jpg" width="150"></img>
+        <img src="round-6-1.png.webp" width="150"></img>
+        <img src="stranger things.jpg" width="150"></img>
+</ol>
+
+    <h2 style="color: gold;">Animes</h2>
+    <ol style="display: flex; margin-right: 10px; padding: 10px;">
+    <img src="Naruto-Anime-inicio-de-2025.jpg" width="150"></img>
+    <img src="anime 2.jpg" width="150"></img>
+    <img src="goku.webp" width="150"></img>
+    <img src="cavaleiros do zodiaco.png" width="150"></img>
+</ol>
+
+    <h2 style="color: gold;">Documentários</h2>
+    <ol style="display: flex; margin-right: 10px; padding: 10px;">
+    <img src="dilema das redes.webp" width="150" style="margin-right: 10px; display: flex;"></img>
+    <img src="documentario 1.webp" width="150"></img>
+    <img src="documentarios-cosmos-60mais.webp" width="150"></img>
+    <img src="documentario 2.jpg" width="150"></img>
+</ol>
+
+
+    <script>
+        // Sistema de recomendação baseado no humor do usuário
+        alert("Seja bem-vindo!");
+
+const humorUsuario = prompt("Como você está se sentindo? (entediado, estressado, animado, etc)");
+
+const filmes = [
+    { titulo: "Vingadores: Ultimato", humor: "entediado" },
+    { titulo: "Velozes e Furiosos", humor: "animado" },
+    { titulo: "Divertidamente", humor: "feliz" },
+    { titulo: "O Lobo de Wall Street", humor: "estressado" },
+];
+
+function recomendarFilmes(filmes, humorDoUsuario) {
+    return filmes.filter(filme => filme.humor === humorDoUsuario);
+}
+
+const recomendados = recomendarFilmes(filmes, humorUsuario);
+
+if (recomendados.length > 0) {
+    alert("Baseado no seu humor, recomendamos: " + recomendados.map(f => f.titulo).join(", "));
+} else {
+    alert("Desculpe, não temos recomendações para esse humor ainda.");
+}
+</script>
+        </body>
+</html>
+
