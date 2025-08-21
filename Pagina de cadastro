@@ -1,0 +1,34 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>  
+<title>Página de Cadastro</title>
+</head>
+<body style="background-color:black">
+<h1 style="color:gold ">Cadastro</h1>
+<form action="/processar_cadastro" method="post" >
+<label style="color:gold">Digite seu Nome </label>
+<input type="text" id="Nome" nome="Nome" required><br><br>
+<label style="color:gold">Crie uma Senha</label>
+<input type="text" id="Senha" required><br><br>
+<button style="color:crimson;" onclick="Cadastro()" class="botao">Cadastrar</button>
+</form>
+
+<script>
+      function Cadastro(){
+        alert("Cadastro finalizado!")
+    }
+
+    const botoes = document.querySelectorAll(".botao");
+
+botoes.forEach((botao) => {
+  botao.style.width = "100px";
+  botao.style.height = "100px";
+  botao.style.borderRadius = "50%";
+  botao.style.border = "none";
+  botao.style.fontSize = "16px";
+});
+</script>
+
+</body>
+</html>

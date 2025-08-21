@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Página de login</title>
+</head>
+<body style="background-color:black">
+<h3 style="color:gold">Escolha seu perfil</h3>
+<a link href="Tela Inicial Plataforma de filmes.html">
+<button style="background-color: gold;" class="botao">Perfil 1</button>
+</a>
+<a link href="Tela Inicial Plataforma de filmes.html">
+<button style="background-color: gold;" class="botao">Perfil 2</button>
+</a>
+<a link href="Tela Inicial Plataforma de filmes.html">
+<button style="background-color: gold;" class="botao">Perfil 3</button>
+</a>
+
+<script>
+const botoes = document.querySelectorAll(".botao");
+botoes.forEach((botao) => {
+  botao.style.width = "100px";
+  botao.style.height = "100px";
+  botao.style.borderRadius = "50%";
+  botao.style.border = "none";
+  botao.style.fontSize = "16px";
+});
+</script>
+</body>
+</html>
