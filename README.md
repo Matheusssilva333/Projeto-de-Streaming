@@ -13,6 +13,7 @@ Desenvolver uma aplicação de streaming com um sistema de recomendação basead
 - HTML5
 - CSS3
 - JavaScript
+- Java
 
 ## 💻 Funcionamento
 Dentro do projeto vai conter um sistema de recomendação baseado no humor do usuário, por exemplo, na tela inicial primeiro vai aparecer uma pergunta sobre como o usuário está se sentindo e se o usuário dizer que está se sentindo triste ou estressado então o sistema vai fazer uma análise e com base nisso vai recomendar filmes relaxantes para ele assistir.
