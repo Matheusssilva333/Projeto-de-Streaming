@@ -14,6 +14,7 @@ Desenvolver uma aplicação de streaming com um sistema de recomendação basead
 - CSS3
 - JavaScript
 - Python
+- Supabase
 - Photopea
 
 ## 💻 Funcionamento
