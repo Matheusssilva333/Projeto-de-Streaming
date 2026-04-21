@@ -13,7 +13,7 @@ Desenvolver uma aplicação de streaming com um sistema de recomendação basead
 - HTML5
 - CSS3
 - JavaScript
-- Java
+- Python
 - Photopea
 
 ## 💻 Funcionamento
