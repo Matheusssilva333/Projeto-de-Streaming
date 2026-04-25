@@ -5,7 +5,7 @@
 
 ## 🎯 Objetivo
 
-Desenvolver uma aplicação de streaming com um sistema de recomendação baseado no humor do usuário, utilizando HTML, CSS e Javascript para treinar habilidades em Desenvolvimento Web.
+Desenvolver uma aplicação de streaming com um sistema de recomendação baseado no humor do usuário, utilizando HTML, CSS e Javascript para o Front End junto com Python e Supabase para o Backend e Banco de dados.
 
 
 ## 🧪 Tecnologias e Ferramentas Utilizadas
